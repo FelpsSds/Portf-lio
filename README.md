@@ -1,6 +1,6 @@
 # Portf-lio
 
-Portfólio pessoal de José Felipe Silva, criado com HTML e CSS.
+Portfólio pessoal, criado com HTML e CSS.
 
 Este projeto apresenta uma página simples e minimalista com:
 
